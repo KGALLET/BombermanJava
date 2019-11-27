@@ -1,0 +1,21 @@
+# .gitignore
+
+## Linux
+*~
+## OSX
+.DS_Store
+*.app
+## Windows
+desktop.ini
+*.exe
+
+## Java
+/bin/
+
+## Maven
+/target/
+
+## IntelliJ
+.classpath
+.project
+.settings
